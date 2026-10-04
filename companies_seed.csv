@@ -1,0 +1,82 @@
+symbol,name,market
+ADANIENT,Adani Enterprises,NSE
+ADANIPORTS,Adani Ports and SEZ,NSE
+APOLLOHOSP,Apollo Hospitals Enterprise,NSE
+ASIANPAINT,Asian Paints,NSE
+AXISBANK,Axis Bank,NSE
+BAJAJ-AUTO,Bajaj Auto,NSE
+BAJFINANCE,Bajaj Finance,NSE
+BAJAJFINSV,Bajaj Finserv,NSE
+BEL,Bharat Electronics,NSE
+BHARTIARTL,Bharti Airtel,NSE
+BPCL,Bharat Petroleum Corporation,NSE
+BRITANNIA,Britannia Industries,NSE
+CIPLA,Cipla,NSE
+COALINDIA,Coal India,NSE
+DIVISLAB,Divi's Laboratories,NSE
+DRREDDY,Dr. Reddy's Laboratories,NSE
+EICHERMOT,Eicher Motors,NSE
+GRASIM,Grasim Industries,NSE
+HCLTECH,HCL Technologies,NSE
+HDFCBANK,HDFC Bank,NSE
+HDFCLIFE,HDFC Life Insurance,NSE
+HEROMOTOCO,Hero MotoCorp,NSE
+HINDALCO,Hindalco Industries,NSE
+HINDUNILVR,Hindustan Unilever,NSE
+ICICIBANK,ICICI Bank,NSE
+INDUSINDBK,IndusInd Bank,NSE
+INFY,Infosys,NSE
+ITC,ITC,NSE
+JIOFIN,Jio Financial Services,NSE
+JSWSTEEL,JSW Steel,NSE
+KOTAKBANK,Kotak Mahindra Bank,NSE
+LT,Larsen & Toubro,NSE
+M&M,Mahindra & Mahindra,NSE
+MARUTI,Maruti Suzuki India,NSE
+NESTLEIND,Nestle India,NSE
+NTPC,NTPC,NSE
+ONGC,Oil and Natural Gas Corporation,NSE
+POWERGRID,Power Grid Corporation of India,NSE
+RELIANCE,Reliance Industries,NSE
+SBILIFE,SBI Life Insurance,NSE
+SBIN,State Bank of India,NSE
+SHRIRAMFIN,Shriram Finance,NSE
+SUNPHARMA,Sun Pharmaceutical Industries,NSE
+TATACONSUMER,Tata Consumer Products,NSE
+TATASTEEL,Tata Steel,NSE
+TCS,Tata Consultancy Services,NSE
+TECHM,Tech Mahindra,NSE
+TITAN,Titan Company,NSE
+TRENT,Trent,NSE
+ULTRACEMCO,UltraTech Cement,NSE
+WIPRO,Wipro,NSE
+AAPL,Apple Inc.,US
+MSFT,Microsoft Corporation,US
+GOOGL,Alphabet Inc. Class A,US
+AMZN,Amazon.com Inc.,US
+NVDA,NVIDIA Corporation,US
+META,Meta Platforms Inc.,US
+TSLA,Tesla Inc.,US
+JPM,JPMorgan Chase & Co.,US
+V,Visa Inc.,US
+MA,Mastercard Inc.,US
+JNJ,Johnson & Johnson,US
+WMT,Walmart Inc.,US
+XOM,Exxon Mobil Corporation,US
+UNH,UnitedHealth Group,US
+PG,Procter & Gamble,US
+HD,The Home Depot,US
+KO,The Coca-Cola Company,US
+PEP,PepsiCo Inc.,US
+DIS,The Walt Disney Company,US
+NFLX,Netflix Inc.,US
+ADBE,Adobe Inc.,US
+CRM,Salesforce Inc.,US
+INTC,Intel Corporation,US
+AMD,Advanced Micro Devices,US
+ORCL,Oracle Corporation,US
+CSCO,Cisco Systems,US
+NKE,Nike Inc.,US
+MCD,McDonald's Corporation,US
+BA,The Boeing Company,US
+IBM,International Business Machines,US
